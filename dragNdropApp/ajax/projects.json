@@ -1,0 +1,91 @@
+
+
+{
+   "projects": [
+      {
+         "team_members": [
+            {
+               "role": "Frontend developer",
+               "name": "Aleksandar",
+               "id": 1
+            },
+            {
+               "role": "Frontend developer",
+               "name": "Andrijana",
+               "id": 2
+            },
+            {
+               "role": "Backend developer",
+               "name": "Nikola",
+               "id": 4
+            },
+            {
+               "role": "Frontend developer",
+               "name": "Srdjan",
+               "id": 5
+            },
+            {
+               "role": "Backend developer",
+               "name": "Boban",
+               "id": 10
+            },
+            {
+               "role": "Backend developer",
+               "name": "Borislav",
+               "id": 15
+            }
+         ],
+         "name": "MRC",
+         "id": 2
+      },
+      {
+         "team_members": [
+            {
+               "role": "Backend developer",
+               "name": "Luka",
+               "id": 3
+            },
+            {
+               "role": "Backend developer",
+               "name": "Maja",
+               "id": 7
+            }
+         ],
+         "name": "TT2",
+         "id": 3
+      },
+      {
+         "team_members": [
+            {
+               "role": "QA Manager",
+               "name": "Tijana",
+               "id": 6
+            },
+            {
+               "role": "Backend developer",
+               "name": "Milos",
+               "id": 14
+            }
+         ],
+         "name": "BNK",
+         "id": 5
+      },
+      {
+         "team_members": [
+            {
+               "role": "Backend developer",
+               "name": "Ognjen",
+               "id": 8
+            },
+            {
+               "role": "Backend developer",
+               "name": "Lazar",
+               "id": 12
+            }
+         ],
+         "name": "ZND",
+         "id": 1
+      }
+   ]
+}
+
